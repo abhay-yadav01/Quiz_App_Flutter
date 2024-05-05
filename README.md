@@ -1,6 +1,6 @@
-# flashcard_quiz_app
+# Quiz_App
 
-A new Flutter project.
+Discover a dynamic Quiz App with extensive language support (HTML, CSS, JavaScript, Flutter, React, etc.). Developed using Flutter and Dart, it offers seamless navigation through MCQs, each with options A, B, C, and D. Hit 'Save' to check answers, 'Next' for the next question, and view total score after attempting all. Let's embark on this knowledge quest together! 💡
 
 ## Getting Started
 
